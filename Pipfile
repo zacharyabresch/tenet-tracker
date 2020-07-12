@@ -7,6 +7,7 @@ verify_ssl = true
 pylint = "*"
 black = "*"
 pytest = "*"
+freezegun = "*"
 
 [packages]
 click = "*"
