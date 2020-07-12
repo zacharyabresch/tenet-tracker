@@ -8,6 +8,7 @@ pylint = "*"
 black = "*"
 pytest = "*"
 freezegun = "*"
+coverage = "*"
 
 [packages]
 click = "*"
